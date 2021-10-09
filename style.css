@@ -1,0 +1,23 @@
+body{
+    background-color: cornsilk;
+}
+#header{
+    background-color: chocolate;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    line-height: 3;
+    text-shadow:3px 3px 3px white;
+    background-color: blue  ;
+}
+#animal_img{
+        width: 290px;
+        height: 330px;
+        border: 5px, solid, black;
+        border-radius: 40px;
+}
